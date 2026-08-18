@@ -1,0 +1,4 @@
+.env
+ingestion/data
+Docs/schema.md
+Docs/00_master_traker.md
